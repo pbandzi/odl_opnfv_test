@@ -2,6 +2,7 @@
 
 # Script checks that venv exists. If it doesn't it will be created
 # It requires python2.7 and virtualenv packages installed
+# + sudo yum install gcc libffi-devel python-devel openssl-devel
 
 BASEDIR=`dirname $0`
 
