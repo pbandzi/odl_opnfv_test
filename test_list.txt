@@ -1,5 +1,28 @@
-# List of tests` which will be executed by script start_test.sh
+# List of tests which will be executed by script start_test.sh
 # You can specify path to specific robot test file or directory (in that case all tests from directory will be executed)
 
-integration/test/csit/suites/integration/basic/
-integration/test/csit/suites/openstack/neutron/
+integration/test/csit/suites/integration/basic
+
+#integration/test/csit/suites/openstack/neutron
+
+#integration/test/csit/suites/ovsdb/Openstack_Neutron
+#integration/test/csit/suites/ovsdb/Southbound_Domain
+
+# integration/test/csit/suites/openflowplugin/AD_SAL_NSF_OF10
+# integration/test/csit/suites/openflowplugin/AD_SAL_NSF_OF13
+#integration/test/csit/suites/openflowplugin/Bug_Validation
+#integration/test/csit/suites/openflowplugin/Flows_Additional_TCs
+# integration/test/csit/suites/openflowplugin/Flows_OF13
+# integration/test/csit/suites/openflowplugin/Flows_Stats_OF13
+# integration/test/csit/suites/openflowplugin/Groups_Meters_OF13
+# integration/test/csit/suites/openflowplugin/Inventory_Scalability_OF10
+# integration/test/csit/suites/openflowplugin/Inventory_Scalability_OF13
+#integration/test/csit/suites/openflowplugin/Longevity
+#integration/test/csit/suites/openflowplugin/Maximum_Links
+#integration/test/csit/suites/openflowplugin/Maximum_Switches
+# integration/test/csit/suites/openflowplugin/MD_SAL_NSF_OF10
+# integration/test/csit/suites/openflowplugin/MD_SAL_NSF_OF13
+#integration/test/csit/suites/openflowplugin/Performance
+# integration/test/csit/suites/openflowplugin/Performance_Flow_Config
+#integration/test/csit/suites/openflowplugin/Sanity3Node
+# integration/test/csit/suites/openflowplugin/Switch_Qualification
